@@ -1,5 +1,5 @@
 # DSPG
-# Soft Policy Gradient Methods for Maximum Entropy Deep Reinforcement Learning
+# Soft Policy Gradient Method for Maximum Entropy Deep Reinforcement Learning
 
 Tensorflow implementation of Deterministic Soft Policy Gradients (DSPG).
 
